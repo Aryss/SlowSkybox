@@ -1,0 +1,4 @@
+[Public]
+Object=(Name=SlowSkybox.SlowHalf,Class=Class,MetaClass=Engine.Mutator,Description="Slow Skybox: 50% Speed,Slows down the speed of rotating skyboxes by half.")
+Object=(Name=SlowSkybox.SlowQuarter,Class=Class,MetaClass=Engine.Mutator,Description="Slow Skybox: 25% Speed,Slows down the speed of rotating skyboxes to a quarter of their speed.")
+Object=(Name=SlowSkybox.SlowEighth,Class=Class,MetaClass=Engine.Mutator,Description="Slow Skybox: 12.5% Speed,Slows down the speed of rotating skyboxes to one eighth of their speed.")
