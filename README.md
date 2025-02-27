@@ -1,7 +1,4 @@
-//=============================================================================
-// Slow Skybox
-// by Michael "_Lynx" Sokolkov, 2025
-//=============================================================================
+Slow Skybox
 
 A set of mutators that slows down the rotation rate of the level skybox. 
  
